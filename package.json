@@ -1,6 +1,6 @@
 {
   "name": "require-if-exists",
-  "version": "1.0.0",
+  "version": "0.0.9",
   "description": "Require a given module if it exists or fail silently",
   "homepage": "https://github.com/tronite/require-if-exists#readme",
   "bugs": {
